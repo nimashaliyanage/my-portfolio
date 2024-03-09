@@ -1,0 +1,35 @@
+[
+    {
+        "title":"Mental Health Web Platform",
+        "ImageSrc":"projects/pr1.png",
+        "description": "From this AI-Assisted web platform where mental health seekers can register and use functionalities like NLP (Natural Language Processing) - based chatbot for personality assessment.",
+        "skills":["HTML","CSS","JavaScript"],
+        "source": "https://github.com/nimashaliyanage"
+
+    },
+    {
+        "title":"Beauty & Skin Web Platform",
+        "ImageSrc":"projects/pr2.png",
+        "description": "The Beauty & Skin Web Platform is an online platform designed to cater to the needs of beauty enthusiasts, skincare aficionados. Utilizing a combination of HTML, CSS, PHP, and SQL.",
+        "skills":["HTML","CSS","PHP","MySQL"],
+        "source": "https://github.com/nimashaliyanage"
+
+    },
+    {
+        "title":"E Commerce Front End",
+        "ImageSrc":"projects/pr3.png",
+        "description": "The React-based E-Commerce Front End offers a responsive shopping experience, featuring dynamic product catalog browsing, and user authentication for personalized interactions. ",
+        "skills":["HTML","CSS","JavaScript","React"],
+        "source": "https://github.com/nimashaliyanage"
+
+    },
+    {
+        "title":"Photography Web Page",
+        "ImageSrc":"projects/pr4.png",
+        "description": "A responsive photographer web page project showcasing a professional portfolio. Built using HTML, CSS, and JavaScript for a dynamic and visually immersive experience. ",
+        "skills":["HTML","CSS","JavaScript","React"],
+        "source": "https://github.com/nimashaliyanage"
+
+    }
+
+]
